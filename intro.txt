@@ -1,4 +1,9 @@
 I am lipidong
 after commit
 5th revise
+<<<<<<< HEAD
 i am master
+=======
+i am test branch
+hahhahah
+>>>>>>> test
